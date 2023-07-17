@@ -4,9 +4,9 @@ It's time to finish your CSS Friends project! Just download the starter repo
 from the `Download Project` button at the bottom of this page to get started.
 
 > **Note:** The starter repo contains additional images and features that your
-> Part 1 solution lacks.
+> Part 1 solution (i.e., Phases 1-5) lacks.
 
-## Phase 0: Sidebar
+## Phase 6: Sidebar
 
 ### Topics
 
@@ -55,7 +55,7 @@ through the use of `<link>` tags in the document's `<head>`:
 </head>
 ```
 
-Phase 0's `<link>` tag is already included, but you'll be responsible for adding
+Phase 6's `<link>` tag is already included, but you'll be responsible for adding
 the rest!
 
 [ss-06-a]:
@@ -65,7 +65,7 @@ the rest!
 [live-06]: http://appacademy.github.io/css-friends/solution/06-sidebar.html
 [t-pseudo-selectors]: http://css-tricks.com/pseudo-class-selectors/
 
-## Phase 1: Online
+## Phase 7: Online
 
 ### Topics
 
@@ -97,7 +97,7 @@ and `translateX()`. Pay attention to typography and don't forget to add a tiny
 [t-positioning]: https://www.w3schools.com/css/css_positioning.asp
 [t-overflow]: https://developer.mozilla.org/en-US/docs/Web/CSS/overflow
 
-## Phase 2: Thumbs
+## Phase 8: Thumbs
 
 ### Topics
 
@@ -154,7 +154,7 @@ give it a shot yourself first!
   https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius
 [pseudo-content]: https://www.w3schools.com/css/css_pseudo_elements.asp
 
-## Phase 3: Forms
+## Phase 9: Forms
 
 ### Topics
 
@@ -189,7 +189,7 @@ division. You can even use parentheses to denote order.
 [live-09]: http://appacademy.github.io/css-friends/solution/09-forms.html
 [t-calc]: https://developer.mozilla.org/en-US/docs/Web/CSS/calc
 
-## Phase 4: Posts
+## Phase 10: Posts
 
 ### Topics
 
@@ -208,7 +208,7 @@ pseudo-content to inject little bullets `·` in between the list items?
   https://assets.aaonline.io/fullstack/html-css/micro-projects/css-friends/docs/screenshots/10-posts-a.png
 [live-10]: http://appacademy.github.io/css-friends/solution/10-posts.html
 
-## Phase 5: Icons
+## Phase 11: Icons
 
 ### Topics
 
